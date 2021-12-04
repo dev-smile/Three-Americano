@@ -1,6 +1,4 @@
-# Three-Americano
+# 제 19회 임베디드 소프트웨어 경진대회 webOS 부문 삼아아팀
 
-### 된건가요?
-## 수정해보세요
-
-## 메모장 수정
+[Team git Orgarnization](https://github.com/ThreeAmericano)  
+[작품 시연 영상](https://www.youtube.com/watch?v=ZO1fI2EKnug)
