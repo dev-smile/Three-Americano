@@ -5,3 +5,4 @@
 
 [Team git Orgarnization](https://github.com/ThreeAmericano)  
 [작품 시연 영상](https://www.youtube.com/watch?v=ZO1fI2EKnug)
+[WebOS Forum Article](https://www.webosose.org/blog/2022/02/08/vehicle-to-smart-home-solution/)
